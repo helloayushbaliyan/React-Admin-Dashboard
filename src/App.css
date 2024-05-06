@@ -1,0 +1,11 @@
+::-webkit-scrollbar {
+  display: none;
+}
+
+.side-btn{
+  transition: all 0.5s;
+}
+
+.display-block{
+  display:block;
+}
